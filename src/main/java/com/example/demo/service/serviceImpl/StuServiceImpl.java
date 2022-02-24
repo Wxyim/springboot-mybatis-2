@@ -17,7 +17,7 @@ public class StuServiceImpl implements StuService {
 
     //构造器注入
 //    @Autowired
-//    public StuServiceImpl(StuDao){
+//    public StuServiceImpl(StuDao stuDao){
 //        this.stuDao = stuDao;
 //    }
 
